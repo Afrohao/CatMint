@@ -34,14 +34,17 @@ New users could sign up through the sign-up page. They need to input their usern
 <h2>Personal Information</h2>
 <h3>Profile</h3>
 In the profile page, users could see their usernames, emails, and recent services they requested.<br>
+
 ![image](img/profile.png)
 
 <h3>Message</h3>
 Users could send their messages to us through this page. Also, they could rate our services by the rating below. We could know our customers’ feedback and whether they were satisfied with our services. In the future, we will utilize that information to improve our services or processes.<br>
+
 ![image](img/message.png)
 
 <h3>Update/Edit</h3>
 Users could add their cats’ names, ages, and breed on this page. By doing so, we could understand our customer’s pets and know how to take care of them more specifically. Especially old cats, we’ll take extra care to old cats no matter with food or the intensity of the exercises. <br>
+
 ![image](img/update.png)
 
 <h2>Make an appointment</h2>
