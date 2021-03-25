@@ -62,6 +62,23 @@ When logging in as an administrator, the user could click “Hello admin” to s
 
 ![image](img/admin.png)
 
+<h1>Web development</h1>
+<h2>Technology Overview</h2>
+<h3>The File Structure</h3>
+User.js is used for storing user schema for MongoDB. Create, Read, Update, and Delete actions for MongoDB is in api.js. The profile is used for Heroku to run this website. Server.js has the information of connection for MongoDB Cloud <br>
+
+![image](img/file_structure.png)
+
+<h3>Controllers and Webpages</h3>
+We put all the js files under controllers. We have js files for the shopping cart, user profile and so on. The mainCtrl.js was the main js file for the whole website. And we put all the HTML files under pages, we put all pages about users under “users”, which includes login, logout, personal profile, and register. Other pages include admin, which is for the administration page, appointment, checkout, home, services, and shopping cart page. By collecting all of the HTML files here, we could know what pages we have and add new pages easier. <br>
+
+![image](img/controllers.png)
+
+<h3>CSS and images</h3>
+We put all of the CSS files together, usually, we name the file the same as the HTML files so that we could know the corresponding HTML files quickly. Also, we put all of the images together under “image” and “img”, which could help us find the images we need more efficiently. <br>
+
+![image](img/css.png)
+
 
 
 
