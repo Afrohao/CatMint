@@ -23,6 +23,20 @@ First, customers could choose “accommodation” in an appointment, then custom
 <br>
 The database is used to generate a daily report, which lists all customers’ scheduled appointment times and customers’ names. The staff could check the report to deliver services. Also, the database will be linked to customers’ accounts, so customers could check their appointment through their accounts.
 
+<h1>General Guidelines</h1>
+<h2>Sign-up and login</h2>
+New users could sign up through the sign-up page. They need to input their username, email and password to create a new account. After they created accounts successfully, users will be directed to log in page to login.
+
+![image](img/signup.png)
+
+<h2>Personal Information</h2>
+<h3>Profile</h3>
+<h3>Message</h3>
+<h3>Update/Edit</h3>
+<h2>Make an appointment</h2>
+<h2>Checkout</h2>
+<h2>Administration</h2>
+
 
 
   
