@@ -20,6 +20,7 @@ When the user login their account, the user could see their usernames, email, an
 Another function of the database is to record customers’ appointments. Customers could make an appointment and schedule time for cat-sitting through the website. A customer can choose the services they need when making an appointment.
 First, customers could choose “accommodation” in an appointment, then customers could send their cats to CCS and pick up their cats in their intended time. Second, if customers need someone to go to their houses to feed the cat, then they could choose the “Feed” service. Customers can also choose that they need CCS to prepare cat food or they have their own cat food. Third, CCS provides service that accompanies cats to the hospital. After customers deliver needed documents to CCS, then CCS will accompany their cats to the designated hospitals. Fourth, for those who may be concerned about strangers walking into their houses to feed cats, customers could choose the gender of the cat sitter when they make an appointment. After customers finish the appointments, that information will be recorded into the CCS database. Fifth, there’s a comment box for customers to fill in anything they think CCS needs to know.
 <br>
+<br>
 The database is used to generate a daily report, which lists all customers’ scheduled appointment times and customers’ names. The staff could check the report to deliver services. Also, the database will be linked to customers’ accounts, so customers could check their appointment through their accounts.
 
 
