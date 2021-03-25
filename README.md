@@ -25,17 +25,40 @@ The database is used to generate a daily report, which lists all customers’ sc
 
 <h1>General Guidelines</h1>
 <h2>Sign-up and login</h2>
-New users could sign up through the sign-up page. They need to input their username, email and password to create a new account. After they created accounts successfully, users will be directed to log in page to login.
+New users could sign up through the sign-up page. They need to input their username, email and password to create a new account. After they created accounts successfully, users will be directed to log in page to login. <br>
 
 ![image](img/signup.png)
+![image](img/login.png)
+<br>
 
 <h2>Personal Information</h2>
 <h3>Profile</h3>
+In the profile page, users could see their usernames, emails, and recent services they requested.<br>
+![image](img/profile.png)
+
 <h3>Message</h3>
+Users could send their messages to us through this page. Also, they could rate our services by the rating below. We could know our customers’ feedback and whether they were satisfied with our services. In the future, we will utilize that information to improve our services or processes.<br>
+![image](img/message.png)
+
 <h3>Update/Edit</h3>
+Users could add their cats’ names, ages, and breed on this page. By doing so, we could understand our customer’s pets and know how to take care of them more specifically. Especially old cats, we’ll take extra care to old cats no matter with food or the intensity of the exercises. <br>
+![image](img/update.png)
+
 <h2>Make an appointment</h2>
+This is one of our key functions. Customers could make an appointment on this page. They could specify their date and time. Also, the gender of our servers. As one of our target customers is single women, we want our customers to feel comfortable with our servers going to their houses. Furthermore, customers could choose the way of the services. They want us to go to their houses to serve or send their cats to our store. After that, they could choose services in the shopping cart and see how much they need to pay. Also, they could remind us if there’s anything that we need to know about their pets or rules in the comment section. <br>
+
+![image](img/appointment.png)
+
 <h2>Checkout</h2>
+After customers made appointments, they will be directed to the checkout page. They need to input personal information and card information to checkout. <br>
+
+![image](img/checkout.png)
+
 <h2>Administration</h2>
+When logging in as an administrator, the user could click “Hello admin” to see the database page. The user could delete the data and also view personal information of all users, such as username, email, time, place, and services. <br>
+
+![image](img/admin.png)
+
 
 
 
