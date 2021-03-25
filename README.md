@@ -1,2 +1,1 @@
-# mean_catmint
-ISTM631 Project
+<h1> CatMint </h1>
